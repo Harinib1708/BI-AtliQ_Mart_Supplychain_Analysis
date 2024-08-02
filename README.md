@@ -16,7 +16,7 @@ AtliQ Mart faces a challenge as key customers did not renew their annual contrac
 - VOFR%(Volume Fill Rate) : Measures the proportion of the total ordered volume delivered on time, indicating supply chain efficiency and reliability.
 
 ## Live Dashboard Link 📊
-Explore the live dashboard view(https://app.powerbi.com/view?r=eyJrIjoiYzUzNzUwMjUtN2U4NC00MTFkLTkyMGQtZWQ1YTc1YTY0ZWY0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=a4cbfcced464e2bd8406)
+Explore the live dashboard [view](https://app.powerbi.com/view?r=eyJrIjoiYzUzNzUwMjUtN2U4NC00MTFkLTkyMGQtZWQ1YTc1YTY0ZWY0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=a4cbfcced464e2bd8406)
   
 
 ## Insights 
