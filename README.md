@@ -21,7 +21,7 @@ Explore the live dashboard [view](https://app.powerbi.com/view?r=eyJrIjoiYzUzNzU
 
 ## Insights 
 - All the Key Metrics (OT%, IF%, OTIF%) are far behind the target.
-- On an average, orders are delayed 0.42 days from the agreed date of delivery.
+- On an average, orders are delayed 0.42 hours from the agreed date of delivery.
 - Lotus Mart, Coolblue, Acclaimed stores have the highest orders as well as delayed the most to deliver the products on time.
 - Ghee, curd and butter products are most delayed to deliver. 
 - There is no noticeable improvements in any of the key metrics in the last few months
